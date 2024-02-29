@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm currently a MSCS student at Stony Brook University
+- Interested in distributed systems, operating systems, multi-core systems and concurrency control
+
 <!--
 **raycursive/raycursive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
